@@ -1,0 +1,81 @@
+
+#name{
+   color: black;
+    text-align: center;
+    background-color: #F9FD9E;
+    padding: 30px;
+    font-family: 'Sofia', sans-serif;
+    font-size:3em;
+}
+#experience{
+   color: black;
+   font-family: Monospace,sans-serif;
+   font-style: strong;
+   font-size: 1.5em;
+}
+#education{
+   color: black;
+   font-family: Monospace, sans-serif;
+   font-style: strong;
+   font-size: 1.5em;
+}
+#interests{
+   color: black;
+   font-family: Monospace, sans-serif;
+   font-style: strong;
+   font-size: 1.5em;
+}
+#skills{
+     color: black;
+   font-family: Monospace, sans-serif;
+   font-style: strong;
+   font-size: 1.5em;
+}
+#carrabbas{
+   color:black;
+   font-family: sans-serif;
+   font-size: 1em;
+}
+#ropewalk{
+     color:black;
+   font-family: sans-serif;
+   font-size: 1em;
+}
+#angler{
+     color:black;
+   font-family: sans-serif;
+   font-size: 1em;
+}
+#cloud9{
+      color:black;
+   font-family: sans-serif;
+   font-size: 1em;
+}
+h1{
+   color: black;
+   font-size: 2em;
+}
+h3{
+   color:black;
+     font-family: sans-serif;
+   font-size: 1.75em;
+}
+h4{
+   color:black;
+     font-family: sans-serif;
+   font-size:1.5em;
+}
+h5{
+   color:black;
+     font-family: sans-serif;
+   font-size: 1em;
+}
+.background{
+   background-color: #ABE0EB;
+}
+.button-link{
+   color:white;
+}
+.button-link2{
+   color:white;
+}
