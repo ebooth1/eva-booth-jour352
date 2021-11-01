@@ -1,0 +1,60 @@
+/*My Stylesheet*/
+#masthead{
+    color: white;
+    text-align: center;
+    background-color: aquamarine;
+    padding: 10px;
+    font-family: Luminari, sans-serif;
+    font-size:100px;
+}
+
+h1{
+ color: black;
+ font-family: sans-serif;
+ font-size: 50px;
+}
+
+h2{
+    color:DarkSlateBlue;
+    font-family: sans-serif;
+    font-size: 30px;
+}
+
+p{
+    font-family:helvetica, arial, sans-serif;
+    font-size: 12px;
+    color: black;
+}
+
+#caption{
+    color:black;
+    font-size: 12px;
+    text-align:center;
+    font-style:italic;
+    font-weight:bold;
+}
+
+#content{
+column-count: 1;
+column-width: 50%;
+align-content: center;
+background-color:beige;
+
+}
+
+#byline{
+    font-size: 28px;
+    font-family: Courier New;
+    color: DarkSlateBlue;
+}
+
+blockquote{
+    color:red;
+    font-size:20px;
+    font-weight: bold;
+}
+#links{
+    color:black;
+    font-size: 12px;
+    font-family:helvetica, arial, sans-serif;
+}
