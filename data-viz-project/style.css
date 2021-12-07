@@ -1,0 +1,85 @@
+#name{   background-image:url(c.png);
+    background-position: center;
+   background-size: 250px; 
+    color: 	#FFFF00;
+    text-align: center;
+    padding: 100px 100px;
+    background-repeat: no-repeat;
+    font-family: 'Oswald', sans-serif;
+    font-size:3em;
+    font-weight: bold;
+      text-shadow: 2px 2px black;
+}
+
+
+h2{ font-size: 2em;
+font-family: cursive, sans-serif;
+font-weight: bold;
+color:black;
+    
+}
+h3{ font-size: 1.75em;
+font-family: Monaco, sans-serif;
+font-weight: bold;
+color: black;
+    
+}
+#caption{
+    color:black;
+    font-style: italic;
+    font-size: .75em;
+    font-family: Arial, sans-serif;
+}
+p{
+    color:black;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+}
+#extra{
+    color: black;
+    font-style: italic;
+    font-size: 1em;
+    font-family: Arial, sans-serif;
+}
+.back{
+   background-color: LightGray;
+}
+#graphic{
+   padding: 100px 100px;
+}
+#definition{
+   background-color: red;
+   padding: 50px;
+   font-weight: bold;
+  
+}
+#footer{
+   font-size: .75em;
+   font-family: courier, Arial;
+}
+h4{ font-size: 1.5em;
+font-family: Monaco, sans-serif;
+font-weight: bold;
+color: black;
+}
+#publication{ font-size: 4em;
+text-align: center;
+font-family: Arial, sans-serif;
+color: yellow;
+font-weight: bold;
+background-color: red;
+padding: 50px;
+   
+}
+h1{
+   font-weight: bold;
+   font-size: 2em;
+}
+#description{
+background-color: red;
+padding: 50px; 
+}
+#quote{  
+    font-size:20px;
+    font-weight: bold;
+}
